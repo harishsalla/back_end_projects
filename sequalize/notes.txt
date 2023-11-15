@@ -1,0 +1,23 @@
+// node js:open scourse use asynchronus programming,eleminate waiting and contineous to next request
+// and it was non blocking piece of code
+// api:-how systems communicate with each other to intrectui with backend aor werser se data ftching
+// sequaize:promised based nodejs orm tool
+// orm:-object orinted mapping
+// the technique to access a relational database from object oriented 
+// we use sequalize to make our data secure
+// object form me data will come
+..............
+// show databases;
+// use library;
+// select * from allbooks;
+// npm init -y
+
+.............
+models:
+/ model represents table in database
+// like defining the table in data base 
+// what re the rows and colums and what type of data it should contain 
+
+model name must be singlular and table name must in prular but not mandtory
+
+WE CAN CREATE THE instaance by using create and create but by using create we need to use save method in it sos   we can use the create method in to it
